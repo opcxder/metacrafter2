@@ -1,6 +1,4 @@
-# metacrafter2
-
-# Project Title
+# Create a token
 This is the solution of second task which is given by metacrafter based on blockchain.
 
 ## Description
