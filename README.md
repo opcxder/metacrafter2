@@ -22,12 +22,12 @@ We are performing this task in Remix IDE.
 ## Help
 
 If you are first time working with this, kindly ensure syntax error, and get tour of the compiler.
-```
+
 
 ## Authors
 
 Raj Gupta 
-```
+
 
 ## License
 
